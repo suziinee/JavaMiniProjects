@@ -1,0 +1,9 @@
+diff a/controller/PetController.java b/controller/PetController.java	(rejected hunks)
+@@ -0,6 +0,7 @@
+ import view.FailView;
+ 
+ public class PetController {
++
+ 	//���� �̸��� ������ Successview�� pet�� ������ �����
+ 	//���� �̸��� �޾Ƽ� PetModel�� petOne �޼ҵ带 ȣ���ϴ� �޼ҵ� petOneCalling
+ 	public static void petOneCalling(String owner) {
